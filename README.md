@@ -1,18 +1,8 @@
 # POKE
 
 # Resolución Actividad 1: Clase Pokemon 
-## Objetivos 
-1. Desarrollar la clase Pokemon.
-2. Definir 10 características que posee la clase Pokemon.
-3. Definir 3 Acciones que puede realizar la clase Pokemon.
-4. Proponer su estructura constructor.
-5. Elaborar un diagrama tipo UML inicial de la clase.
-6. Los atributos tengan sentido dentro del modelo.
-7. Los métodos sean realistas e implementables.
 
-> Cómo cumplimiento de los objetivos se hace entrega del presente documento, donde se trazó todo el curso y puesta en marcha del procedimiento. 
 ---
-
 ## Tabla de contenidos
 - [Contextualización](#contextualizacion)
 - [Diseño de clase](#diseño-de-clase)
